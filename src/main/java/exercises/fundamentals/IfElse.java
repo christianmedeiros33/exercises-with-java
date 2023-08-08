@@ -1,12 +1,5 @@
 package exercises.fundamentals;
-
-/**
- * a) Escreva um programa que verifica se um número é positivo, negativo ou zero usando declarações if-else.
- * b) Use um loop for para imprimir os números pares de 1 a 10.
- * c) Implemente um loop while que imprime os números ímpares de 15 a 25.
- */
-
-public class ifAndLoop {
+public class IfElse {
     public static void main(String[] args) {
         Integer number = 1;
 
