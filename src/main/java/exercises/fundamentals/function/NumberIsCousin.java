@@ -1,4 +1,4 @@
-package exercises.fundamentals;
+package exercises.fundamentals.function;
 
 public class NumberIsCousin {
     public static void main(String[] args) {

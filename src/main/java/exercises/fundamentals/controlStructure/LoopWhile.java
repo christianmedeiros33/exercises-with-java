@@ -1,4 +1,4 @@
-package exercises.fundamentals;
+package exercises.fundamentals.controlStructure;
 public class LoopWhile {
     public static void main(String[] args) {
 

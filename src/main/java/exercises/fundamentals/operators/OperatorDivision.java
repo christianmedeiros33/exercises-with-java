@@ -1,4 +1,4 @@
-package exercises.fundamentals;
+package exercises.fundamentals.operators;
 public class OperatorDivision {
     public static void main(String[] args) {
         Integer number = 15;

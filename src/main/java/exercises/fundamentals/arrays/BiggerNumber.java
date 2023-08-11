@@ -1,4 +1,4 @@
-package exercises.fundamentals;
+package exercises.fundamentals.arrays;
 
 /*
 b) Declare um array de números inteiros e calcule a média dos valores.
