@@ -1,7 +1,7 @@
-package exercises.fundamentals.inheritancePolymorphism.classMain;
+package exercises.fundamentals.inheritancePolymorphism.animal.classMain;
 
-import exercises.fundamentals.inheritancePolymorphism.subClass.CatAnimal;
-import exercises.fundamentals.inheritancePolymorphism.subClass.DogAnimal;
+import exercises.fundamentals.inheritancePolymorphism.animal.subClass.CatAnimal;
+import exercises.fundamentals.inheritancePolymorphism.animal.subClass.DogAnimal;
 
 public class AnimalMain {
     public static void main(String[] args) {

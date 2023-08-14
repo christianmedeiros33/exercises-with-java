@@ -10,5 +10,3 @@
 
 ### List of exercises (PasteBin):
 - [LINK EXERCISES](https://pastebin.pl/view/1dd10da9)
-
-
