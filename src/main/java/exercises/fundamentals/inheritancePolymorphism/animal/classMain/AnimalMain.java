@@ -1,5 +1,4 @@
 package exercises.fundamentals.inheritancePolymorphism.animal.classMain;
-
 import exercises.fundamentals.inheritancePolymorphism.animal.subClass.CatAnimal;
 import exercises.fundamentals.inheritancePolymorphism.animal.subClass.DogAnimal;
 
